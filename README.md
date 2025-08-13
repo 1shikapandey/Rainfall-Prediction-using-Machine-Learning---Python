@@ -72,24 +72,16 @@ Final Model Chosen: **SVC**
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Rainfall-Prediction-using-Machine-Learning---Python.git
+
 Navigate to the project directory:
-
-bash
-Copy
-Edit
 cd Rainfall-Prediction-using-Machine-Learning---Python
+
 Install the required packages:
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
-Run the script:
 
-bash
-Copy
-Edit
+Run the script:
 python rainfall_prediction.py
+
 📌 Dataset
 The dataset (Rainfall.csv) contains daily weather measurements such as:
 
