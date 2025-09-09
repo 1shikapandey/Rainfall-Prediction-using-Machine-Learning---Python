@@ -27,7 +27,7 @@ Potential applications include:
 
 ---
 
-## 📂 Project Workflow
+## Project Workflow
 1. **Data Loading & Cleaning**
    - Removed extra spaces in column names  
    - Filled missing values with column mean  
