@@ -11,7 +11,7 @@ To develop a reliable model that predicts **rainfall occurrence** based on daily
 Potential applications include:
 - Agriculture & irrigation planning  
 - Water resource management  
-- ⚠ Disaster prevention & preparedness  
+- Disaster prevention & preparedness  
 - Everyday decision making  
 
 ---
