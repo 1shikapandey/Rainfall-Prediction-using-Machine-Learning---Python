@@ -1,4 +1,4 @@
-# 🌧 Rainfall Prediction using Machine Learning – Python
+# Rainfall Prediction using Machine Learning – Python
 
 ## Overview
 This project predicts the possibility of rainfall for a given day using historical weather data.  
