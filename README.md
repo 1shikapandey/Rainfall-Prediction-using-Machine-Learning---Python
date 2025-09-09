@@ -10,7 +10,7 @@ It uses data preprocessing, visualization, feature engineering, and machine lear
 To develop a reliable model that predicts **rainfall occurrence** based on daily weather conditions.  
 Potential applications include:
 - Agriculture & irrigation planning  
-- 🌊 Water resource management  
+- Water resource management  
 - ⚠ Disaster prevention & preparedness  
 - ☀ Everyday decision making  
 
