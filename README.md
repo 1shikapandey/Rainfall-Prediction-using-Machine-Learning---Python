@@ -82,7 +82,7 @@ pip install -r requirements.txt
 Run the script:
 python rainfall_prediction.py
 
-📌 Dataset
+ Dataset
 The dataset (Rainfall.csv) contains daily weather measurements such as:
 
 Pressure, temperature, dew point
