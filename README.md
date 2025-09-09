@@ -6,7 +6,7 @@ It uses data preprocessing, visualization, feature engineering, and machine lear
 
 ---
 
-## 🎯 Objective
+## Objective
 To develop a reliable model that predicts **rainfall occurrence** based on daily weather conditions.  
 Potential applications include:
 - 🌾 Agriculture & irrigation planning  
