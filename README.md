@@ -68,7 +68,7 @@ Final Model Chosen: **SVC**
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Rainfall-Prediction-using-Machine-Learning---Python.git
