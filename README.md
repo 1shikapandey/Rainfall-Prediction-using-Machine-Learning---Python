@@ -56,7 +56,7 @@ Potential applications include:
 
 ---
 
-## 📊 Results
+## Results
 | Model                  | Train ROC-AUC | Validation ROC-AUC | Validation Accuracy |
 |------------------------|--------------:|-------------------:|--------------------:|
 | Logistic Regression    | 0.8893        | 0.8967              | ~89%                |
