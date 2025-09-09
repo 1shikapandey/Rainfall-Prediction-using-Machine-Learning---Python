@@ -12,7 +12,7 @@ Potential applications include:
 - Agriculture & irrigation planning  
 - Water resource management  
 - ⚠ Disaster prevention & preparedness  
-- ☀ Everyday decision making  
+- Everyday decision making  
 
 ---
 
