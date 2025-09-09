@@ -16,7 +16,7 @@ Potential applications include:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - **Python**  
 - **Libraries:**
   - Pandas, NumPy – Data handling
@@ -82,7 +82,8 @@ pip install -r requirements.txt
 Run the script:
 python rainfall_prediction.py
 
- Dataset
+## Dataset
+<br>
 The dataset (Rainfall.csv) contains daily weather measurements such as:
 
 Pressure, temperature, dew point
